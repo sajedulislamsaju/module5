@@ -163,4 +163,36 @@ margin-bottom: 30px;
     color: #181818;
     margin-bottom: 200px;
 }
+.resume-contain {
+    display: flex;
+   margin-bottom: 20px;
+}
+.resume-items {
+    margin: 50px;
+    padding: 20px;
+    margin-left: -30px;
+}
+.re-title {
+    margin: 10px;
+}
+.sub-title {
+    margin: 10px;
+}
+.decription {
+    margin: 10px;
+    font-size: 20px;
+}
+.re-btn {
+    margin: 30px;
+    text-align: center;
+    background-color: orange;
+    margin-left: 435px;
+    margin-bottom: 150px;
+    font-size: 30px;
+}
 
+/* idufhoklnsfgf */
+
+.bg {
+   display: flex;
+}
